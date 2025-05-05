@@ -10,4 +10,4 @@ Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
 
 ### Para Rodar
 
-- `npm start` oi
+- `npm start` 
