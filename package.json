@@ -2,14 +2,15 @@
   "name": "react_calc_imc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Lucas-cazita.github.io/react_imc_calc",
+  "homepage": "https://lucas-cazita.github.io/react_calc_imc.github.io",
   "main": "index.js",
   "author": "Lucas Cazita",
   "license": "MIT",
   "description": "Calculadora de IMC (Índice de Massa Corporal) em React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lucas-cazita/react-imc-calc"},
+    "url": "https://github.com/Lucas-cazita/react-imc-calc"
+  },
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
