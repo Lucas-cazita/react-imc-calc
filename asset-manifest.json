@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_calc_imc/static/css/main.df658ffc.css",
-    "main.js": "/react_calc_imc/static/js/main.b23fdde6.js",
-    "static/js/453.f832bbf2.chunk.js": "/react_calc_imc/static/js/453.f832bbf2.chunk.js",
-    "static/media/powered.png": "/react_calc_imc/static/media/powered.31688c4f015d2f42e203.png",
-    "index.html": "/react_calc_imc/index.html",
-    "main.df658ffc.css.map": "/react_calc_imc/static/css/main.df658ffc.css.map",
-    "main.b23fdde6.js.map": "/react_calc_imc/static/js/main.b23fdde6.js.map",
-    "453.f832bbf2.chunk.js.map": "/react_calc_imc/static/js/453.f832bbf2.chunk.js.map"
+    "main.css": "/react_calc_imc.github.io/static/css/main.df658ffc.css",
+    "main.js": "/react_calc_imc.github.io/static/js/main.c854cb20.js",
+    "static/js/453.f832bbf2.chunk.js": "/react_calc_imc.github.io/static/js/453.f832bbf2.chunk.js",
+    "static/media/powered.png": "/react_calc_imc.github.io/static/media/powered.31688c4f015d2f42e203.png",
+    "index.html": "/react_calc_imc.github.io/index.html",
+    "main.df658ffc.css.map": "/react_calc_imc.github.io/static/css/main.df658ffc.css.map",
+    "main.c854cb20.js.map": "/react_calc_imc.github.io/static/js/main.c854cb20.js.map",
+    "453.f832bbf2.chunk.js.map": "/react_calc_imc.github.io/static/js/453.f832bbf2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df658ffc.css",
-    "static/js/main.b23fdde6.js"
+    "static/js/main.c854cb20.js"
   ]
 }
